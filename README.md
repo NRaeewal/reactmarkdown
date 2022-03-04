@@ -1,5 +1,7 @@
 # About The Markdown Editor 
 
+** update : noticed that my preview section does not extend as I add information, will need to fix
+
 This is a markdown editor created using react, from freecodecamp. I have also made use of conditionals to create my own user interface. Additionally, this project shows the organization of different components in their own files. 
 
 
