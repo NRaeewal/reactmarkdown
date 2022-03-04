@@ -1,3 +1,8 @@
+# About The Markdown Editor 
+
+This is a markdown editor created using react, from freecodecamp. I have also made use of conditionals to create my own user interface. Additionally, this project shows the organization of different components in their own files. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
